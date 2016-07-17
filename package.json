@@ -1,0 +1,11 @@
+{
+  "name": "wolf-espressobar-kassa",
+  "version": "1.0.0",
+  "description": "Wolf Espressobar Kassasysteem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin Claes",
+  "license": "ISC"
+}
